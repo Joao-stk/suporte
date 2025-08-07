@@ -1,0 +1,26 @@
+Passo 1: Pegue algo para fazer as anotações. Anote por PDV, conforme a ordem deles.
+
+Passo 2: Verifique se tem nobreak no caixa. Ele se parece conforme na imagem seguinte
+@nobreaks
+
+Passo 3: Caso não haja nobreak, anote o número do PDV, seguido de "Não tem".
+
+Exemplo:
+@semnobreak
+
+Passo 4: Para testar o funcionamento, desconecte o nobreak da tomada.
+
+Caso ele continue ligado, aguarde até o computador desligar para ligar o nobreak à tomada novamente (conecte na mesma tomada, para evitar problemas), e anote o número do PDV, seguido do tempo que ficou ativo.
+
+Exemplo:
+@nobreakfunciona
+
+Caso o nobreak já desligue no momento em que desconectou, conecte ele novamente à mesma tomada, e anote o número do PDV, seguido de "Tem. Não funciona".
+
+Exemplo:
+@nobreaknaofunciona
+
+Passo 5: Envie pelo Whatsapp todas as anotações feitas.
+
+Exemplo:
+@anotacoesgerais
